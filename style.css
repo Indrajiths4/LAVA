@@ -34,5 +34,25 @@ body {
 }
 
 .btn-navbar {
+    display: inline-block;
+    padding: 10px 43px;
+    border: 1px solid rgba(36, 193, 255);
+    background-color: rgba(36, 193, 255);
+    color: white;
+    border-radius: 50px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.content-home2 {
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.home-heading {
     
 }
